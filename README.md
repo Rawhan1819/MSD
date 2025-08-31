@@ -1,12 +1,13 @@
-# React + Vite
+# Landing page of our Project - SkillForge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A well desinged landing page with mant features adn a side login/signup option and about the lanfing and also the contact details and also the category section 
 
-Currently, two official plugins are available:
+Developed using React js + Vite 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="973" height="970" alt="Screenshot from 2025-08-31 08-29-26" src="https://github.com/user-attachments/assets/84e7714a-3ab5-4ec2-83a8-0645a926535d" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="973" height="970" alt="Screenshot from 2025-08-31 08-29-38" src="https://github.com/user-attachments/assets/7ea941ea-3856-44c9-b5a3-9969763e7736" />
+
+
+<img width="973" height="970" alt="Screenshot from 2025-08-31 08-29-48" src="https://github.com/user-attachments/assets/e057231c-f3c9-4184-9af2-a06a95cb72e4" />
