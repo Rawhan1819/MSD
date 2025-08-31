@@ -1,12 +1,9 @@
-# React + Vite
+# BASIC FIRST LEARNING LANDING PAGE USING REACT js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic learning landing page before actually createing one for our project. This is a simple landing page of an anime characrter named Zoro
 
-Currently, two official plugins are available:
+"ONLY A LEARNING LANDING PAGE BEFORE ACTULLY CREATING AN ACTUAL ONE" 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1843" height="970" alt="Screenshot from 2025-08-31 09-10-41" src="https://github.com/user-attachments/assets/55c96161-e6d7-4725-9055-94e0d0f9135e" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1843" height="970" alt="Screenshot from 2025-08-31 09-10-49" src="https://github.com/user-attachments/assets/26cccf4a-ed35-4c78-b5d2-6f0438d28e1f" />
